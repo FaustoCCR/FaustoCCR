@@ -13,11 +13,12 @@ I'm a Full-Stack Developer who loves combining technical skills and creativity t
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FaustoCCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoCCR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=FaustoCCR&style=for-the-badge)
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=FaustoCCR&style=for-the-badge" alt="profile views"/>
+</div>
 
 <!--
 Here are some ideas to get you started:
